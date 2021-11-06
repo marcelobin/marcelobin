@@ -22,11 +22,22 @@ Aqui no meu perfil você encontrará minha jornada de estudos nesta linguagem e 
   
  ##  
   
-  <div align="center">
-  <a href='https://github.com/marcelobin/Certificados' target='_blank'> 📜CERTIFICADOS📜 </a>
+
+  ## <a href='https://github.com/marcelobin/Certificados' target='_blank'>CERTIFICADOS</a>
   </div>
   
-##
+  
+<div align="center">
+  
+DataCamp |----   | 
+------- | ---------------- |
+Introduction to Python   | Intermediate Python  |
+Data Manipulation with pandas  |Introduction to Data Visualization with Matplotlib |
+Introduction to Data Visualization with Seaborn   | Intermediate Data Visualization with Seaborn  | 
+Introduction to Importing Data in Python   | Joining Data with pandas   | 
+Python Data Science Toolbox (Part 1)   | Python Data Science Toolbox (Part 2) | 
+   |  | 
+</div>
   
 ## Contatos
 <div align="center">
