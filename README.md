@@ -19,8 +19,16 @@ Aqui no meu perfil você encontrará minha jornada de estudos nesta linguagem e 
     <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
     <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
   </div>
-
+  
+ ##  
+  
+  <div align="center">
+  <a href='https://github.com/marcelobin/Certificados' target='_blank'> 📜CERTIFICADOS📜 </a>
+  </div>
+  
 ##
+  
+## Contatos
 <div align="center">
   <a href="https://www.linkedin.com/in/marcelo-bin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
@@ -31,5 +39,5 @@ Aqui no meu perfil você encontrará minha jornada de estudos nesta linguagem e 
   <a href="mailto:marcelo.bin@hotmail.com">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
   </a>
-  
-</div>
+ </div>
+
