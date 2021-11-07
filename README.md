@@ -34,9 +34,9 @@ DataCamp |----   |
 Introduction to Python   | Intermediate Python  |
 Data Manipulation with pandas  |Introduction to Data Visualization with Matplotlib |
 Introduction to Data Visualization with Seaborn   | Intermediate Data Visualization with Seaborn  | 
-Introduction to Importing Data in Python   | Joining Data with pandas   | 
+Introduction to Importing Data in Python   | Intermediate Importing Data in Python  | 
 Python Data Science Toolbox (Part 1)   | Python Data Science Toolbox (Part 2) | 
-   |  | 
+  Joining Data with pandas |  | 
 </div>
   
 ## Contatos
