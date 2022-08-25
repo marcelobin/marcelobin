@@ -1,54 +1,23 @@
-### 👋 Olá, sou Marcelo Bin e agradeço sua visita ao meu perfil!
+<h1 align="center">Olá👋, Eu sou o Marcelo Bin</h1>
+<h3 align="center">Apaixonado por tecnologia e o que os dados podem nos dizer.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marcelobin&label=Profile%20views&color=0e75b6&style=flat" alt="marcelobin" /> </p>
 
-* 🌱 Atualmente estou aprendendo Python e suas utilidades junto a Ciência de Dados. 🔭⚖
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marcelobin" alt="marcelobin" /></a> </p>
 
-Aqui no meu perfil você encontrará minha jornada de estudos nesta linguagem e suas aplicações.
+- 🌱 I’m currently learning **Análise de Dados / Ciência de Dados**
 
-  <div align="center">
-    <a href="https://github.com/marcelobin">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=marcelobin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelobin&layout=compact&langs_count=7&theme=dark"/>
-  </div>
-  
- ##
- 
-  <div style="display: inline_block" align="center"><br>
-    <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-    <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-    <img align="center" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-  </div>
-  
- ##  
-  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/marcelo-bin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcelo-bin" height="30" width="40" /></a>
+</p>
 
-  ## <a href='https://github.com/marcelobin/Certificados' target='_blank'>CERTIFICADOS</a>
-  </div>
-  
-  
-<div align="center">
-  
-DataCamp |----   | 
-------- | ---------------- |
-Introduction to Python   | Intermediate Python  |
-Data Manipulation with pandas  |Introduction to Data Visualization with Matplotlib |
-Introduction to Data Visualization with Seaborn   | Intermediate Data Visualization with Seaborn  | 
-Introduction to Importing Data in Python   | Intermediate Importing Data in Python  | 
-Python Data Science Toolbox (Part 1)   | Python Data Science Toolbox (Part 2) | 
-  Joining Data with pandas |  | 
-</div>
-  
-## Contatos
-<div align="center">
-  <a href="https://www.linkedin.com/in/marcelo-bin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/marcelo_bin_resende/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:marcelo.bin@hotmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
-  </a>
- </div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcelobin&show_icons=true&locale=en&layout=compact" alt="marcelobin" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marcelobin&show_icons=true&locale=en" alt="marcelobin" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marcelobin&" alt="marcelobin" /></p>
 
